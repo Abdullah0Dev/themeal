@@ -1,6 +1,6 @@
 # Awesome Recipe App 🍳📱
 
-Welcome to our Awesome Recipe App! This React Native Expo app is a modern, feature-rich recipe application that showcases cutting-edge technologies in mobile development. Whether you're a seasoned chef or just starting out in the kitchen, this app has something for everyone.
+Welcome to our Awesome Recipe App! This React Native Expo app is a modern, feature-rich recipe application that showcases cutting-edge technologies in mobile development. See ya [there](https://youtu.be/uBs-5SRlico) 
 
 ## Technologies Used
 - **React Native**: Built using React Native framework for cross-platform compatibility.
